@@ -1,6 +1,6 @@
 # no. of days:- , till 5days = 2rs/day,, 6-10:- 3/day 11-15:- 4/day, after 15:- 5/day
 
-nd = int(input("Enter the number of days = "))
+nd = int(input("Enter the number of days = "));
 if nd <= 5:
     amt = nd*2;
 elif nd > 5 and nd <= 10:
@@ -9,7 +9,7 @@ elif nd > 10 and nd <= 15:
     amt = 25 + (nd-10)*4;
 else:
     amt = 45 + (nd-15)*5;
-print("Amount to be paid = ", amt)
+print("Amount to be paid = ", amt);
 
 
 
@@ -31,7 +31,7 @@ print("Amount to be paid = ", amt)
 # 6. Match case
 # number = 9
 # match number:
-#     case 1:
+#     case 5:
 #         print("one")
 #     case 2:
 #         print("two")
