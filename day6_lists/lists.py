@@ -1,4 +1,4 @@
-# homework
+# homework - 2
 # 1. Get Smallest Number in List
 # 2. Remove Duplicates from List
 # 3. Remove Even Numbers from List

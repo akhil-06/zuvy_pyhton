@@ -1,3 +1,15 @@
+# Homewrok - 1
+# Exercise 13: Find the factorial of a given number
+# Exercise 14: Reverse a integer number
+# Exercise 15: Print elements from a given list present at odd index positions
+# Exercise 16: Calculate the cube of all numbers from 1 to a given number
+# Exercise 17: Find the sum of the series up to n terms
+
+
+
+
+
+
 # prime number or not
 num = int(input("Enter the number- "));
 
