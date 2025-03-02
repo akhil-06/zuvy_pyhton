@@ -1,6 +1,6 @@
-https://leetcode.com/problems/remove-element/description/
-https://leetcode.com/problems/move-zeroes/description/
-https://leetcode.com/problems/apply-operations-to-an-array/description/
+# https://leetcode.com/problems/remove-element/description/
+# https://leetcode.com/problems/move-zeroes/description/
+# https://leetcode.com/problems/apply-operations-to-an-array/description/
 
 a = [0,0,0,0,1,1,1,1,1,1,1,1,2,3,3,3,3,3,4,4,4,4,5,5,5,5,6];
 n = len(a)
